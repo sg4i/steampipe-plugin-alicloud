@@ -7,6 +7,7 @@ require (
 	github.com/alibabacloud-go/tea-rpc v1.1.8
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1140
 	github.com/aliyun/aliyun-oss-go-sdk v2.1.6+incompatible
+	github.com/go-resty/resty/v2 v2.12.0
 	github.com/gocarina/gocsv v0.0.0-20201208093247-67c824bc04d4
 	github.com/sethvargo/go-retry v0.2.4
 	github.com/turbot/go-kit v0.9.0-rc.1
@@ -106,13 +107,13 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.21.0 // indirect
 	go.opentelemetry.io/otel/trace v1.21.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.0.0 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.22.0 // indirect
 	golang.org/x/oauth2 v0.11.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.126.0 // indirect
